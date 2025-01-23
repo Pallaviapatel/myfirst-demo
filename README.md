@@ -1,4 +1,4 @@
 # myfirst-demo
 This is my first repository
 <br>
-Author - Pallavi Patel
+Author - Pallavi Patel (B-tech)
